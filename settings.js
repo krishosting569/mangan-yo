@@ -26,9 +26,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Kricnz" //namabot kalian
-global.ownername= "Kris Ganteng ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.botname = "Krizyz" //namabot kalian
+global.ownername= "Kris Hosting" //nama kalian
+global.myweb ="https://api.krishosting.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/krishosting" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/krishostibg" //bebas
 global.email = "krishosting569@gmail.com" //bebas
@@ -37,13 +37,13 @@ global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['62882007324217'] //premium user
 global.owner = ["62882007324217","628820.7324217"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62882007324217" // nomor wa kalian
-global.ownernomerr = "62882007324214" //nmr wa kalian
+global.ownernomerr = "62882007324217" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Kricnz' //sticker wm ubah
-global.author = 'Di Buat Oleh Kris Hosting' //sticker wm ganti nama kalian
+global.packname = '© Krizyz' //sticker wm ubah
+global.author = 'Bot Kris Hosting' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -120,12 +120,12 @@ global.mess = {
     sukses: '🤗Done, Oke Desu~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
+    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner Tolol!',
+    group: 'Perintah Ini Hanya Bisa Digunakan Di Group Tolol!',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-	bot: 'Fitur Khusus Pengguna Nomor Bot',
+	bot: 'Hadeh Fitur Khusus Pengguna Nomor Bot Anj',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
+    wait: '⏳ Sedang Di Proses Kintil',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
