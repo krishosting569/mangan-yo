@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KRIZYZBOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -42,7 +42,7 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
+> Krizyz-Md adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
 
 ## Support Language
 
@@ -62,15 +62,15 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## How to Get Mongodb URI
 
-- Tonton [Di YouTube](https://youtu.be/M8H9S3djxTg)
+- Tonton [Di YouTube](https://youtu.be/Krishosting)
 
 <p align="center">
-<a href="https://youtu.be/M8H9S3djxTg"><img src="https://telegra.ph/file/682c1315ff9a43bb1a724.jpg" />
+<a href="https://youtu.be/Krishosting"><img src="https://telegra.ph/file/682c1315ff9a43bb1a724.jpg" />
 </p>
 
 ## HOW TO CONNECT TO MONGODB
 
-- [Tonton Di YouTube](https://youtu.be/lBEExh-09D8)
+- [Tonton Di YouTube](https://youtu.be/Krishosting)
 
 <p align="center">
 <a href="https://youtu.be/lBEExh-09D8"><img src="https://telegra.ph/file/4464e566d6c578e1f94cd.jpg" />
