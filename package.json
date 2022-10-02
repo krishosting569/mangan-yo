@@ -1,5 +1,5 @@
 {
-  "name": "Krizyzbot-Md",
+  "name": "Alphabot-MD",
   "version": "1.1.5",
   "description": "Krizyzbot Md, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "Krisshost",
+  "author": "ZeeoneOfc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:zeeone-ofc/baileys",
